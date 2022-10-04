@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+iplogger.org	TRUE	/	FALSE	1999999999	375263813044345972	2
+iplogger.org	TRUE	/	FALSE	1999999999	clhf03028ja	181.117.8.116
+.yandex.ru	TRUE	/	FALSE	1999999999	i	Kz6s3wlx/e1tdjhsivS332UTj8MLW0tvPF5WBosGx5bpJvwkP2f7SY0xGaHjTrKhscUcpsmPg8Ns1XZo4Ed2ujXws1Y=
+.iplogger.org	TRUE	/	FALSE	1999999999	_lang	es
+.iplogger.org	TRUE	/	FALSE	1999999999	cursor	UVyh10w9l0K2E2q9p4Q6K6C1XHIR884i
+iplogger.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+

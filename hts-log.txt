@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 04 Oct 2022 19:18:29 at https://iplogger.org/es/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://iplogger.org/es/ -O1 "C:\Users\Alejandro\Documents\https___iplogger.org_es_2nXB59" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:20:28	Warning: 	Found for https://iplogger.org/es/oauth/ehlo/google/
+19:20:28	Warning: 	File has moved from https://iplogger.org/es/oauth/ehlo/google/ to https://accounts.google.com/o/oauth2/auth?redirect_uri=https://iplogger.org/oauth/hello/google/&response_type=code&client_id=905164520781-ovv0kiirlt2ld6jgcu5hninp628ts3sv.apps.googleusercontent.com&scope=https://www.googleapis.com/auth/userinfo.email https://www.googleapis.com/auth/userinfo.profile
+19:20:28	Warning: 	Found for https://iplogger.org/es/oauth/ehlo/facebook/
+19:20:28	Warning: 	File has moved from https://iplogger.org/es/oauth/ehlo/facebook/ to https://www.facebook.com/dialog/oauth?redirect_uri=https://iplogger.org/oauth/hello/facebook/&response_type=code&client_id=232115388491569&scope=email,public_profile&auth_type=rerequest
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 2 seconds : 167 links scanned, 164 files written (3822114 bytes overall) [1783573 bytes received at 9799 bytes/sec], 2883895 bytes transferred using HTTP compression in 60 files, ratio 25%, 4.8 requests per connection
+(No errors, 4 warnings, 0 messages)
